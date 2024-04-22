@@ -1,0 +1,11 @@
+{
+  "name": "lit-quick-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wyatt Barnes <me@wyatt.email>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@lit-protocol/lit-node-client": "^5.0.0"
+  }
+}
